@@ -79,4 +79,4 @@ In these rows are:
 - Button **AC 🗑️** to delete the whole entry.
 - **EXP 📊** : Multiply any number with powers of 10 (e.g., `2 * 10³ = 2000`).
 
-💡 Feel free to suggest any new emojis or changes to make it more attractive and user-friendly! 💡
+
